@@ -69,5 +69,29 @@ export const prototypes: PrototypeMeta[] = [
     date: '2026-03-18',
     status: 'ready-for-review',
   },
+  {
+  id: 'home-screen',
+  title: 'Home Screen v2',
+  description: 'Home screen with animated orb balances, burn urgency strip, activate card plasma field, and drawer navigation.',
+  author: 'Lee',
+  date: '2026-03-18',
+  status: 'ready-for-review',
+  },
+  {
+    id: 'in-app-navigation-system',
+    title: 'In-App Navigation System v1.3',
+    description: 'Locked navigation drawer with activation state toggle, Collection icon variants, and page switching.',
+    author: 'Lee',
+    date: '2026-03-18',
+    status: 'ready-for-review',
+  },
+  {
+    id: 'nav-map',
+    title: 'Navigation Map v1.0',
+    description: 'Full screen inventory across all 6 flows — status, artifact references, and edge cases. Click any screen for details.',
+    author: 'Lee',
+    date: '2026-03-18',
+    status: 'ready-for-review',
+  },
   // --- END OF LIST ---
 ]
